@@ -2,6 +2,7 @@
 或查看我的个人简介下载源码。
 支持定制、讲解、修改、远程调试
 
+
 ### 一、相关技术
 
 - 前端：`HTML` / `CSS` / `Javascript`。
@@ -32,7 +33,7 @@
 **用户功能图：**
 
 1. 登录
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2015:58:50_image.png)
+   ![image](https://github.com/user-attachments/assets/17a3fc21-60d7-4678-98fa-66e03ea90e92)
 2. 个人信息
    ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2015:59:12_image.png)
 3. 报名选课
@@ -43,7 +44,7 @@
 **管理员功能图：**
 
 1. 登录
-   ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2015:59:41_image.png)
+   ![image](https://github.com/user-attachments/assets/7cc75739-4b0c-4013-94df-2fc89d3443c3)
 2. 会员卡查询
    ![image.png](https://pic.picprosol.com/user_upload/1ca4a16527164fbdbe5588f4023765f3/2024-12-06%2016:00:15_image.png)
 3. 会员管理
